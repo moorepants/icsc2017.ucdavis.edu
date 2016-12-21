@@ -1,0 +1,19 @@
+/*
+Theme Name: Vertoh
+Theme URI: http://www.showthemes.com/2015-event-wordpress-theme-vertoh
+Author:  Showthemes
+Author URI: http://www.showthemes.com
+Description: Vertoh is a WordPress Theme by Showthemes. Designed by Fabio Cannillo and developed by Simone Bolognini (http://www.simonebolognini.it) 
+Version: 1.3.60
+*/
+section.site-slider h1 {
+	text-shadow: 3px 3px 4px #000;
+}
+section.site-slider h3 {
+	text-shadow: 2px 2px 3px #000;
+	font-weight: bold !important;
+}
+section.site-slider p {
+	text-shadow: 1px 1px 1px #000;
+	font-weight: bold !important;
+}
