@@ -17,3 +17,15 @@ section.site-slider p {
 	text-shadow: 1px 1px 1px #000;
 	font-weight: bold !important;
 }
+section.map-slider .swap-cities-list .gradient-overlay { background:none !important;}
+.entry-content ul {
+  margin: 1em 0;
+  padding: 0 0 0 40px;
+}
+
+.entry-content ul li {
+  list-style-type: circle;
+}
+#tile_eventdescription {
+    text-align: left;
+}
