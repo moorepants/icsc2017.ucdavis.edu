@@ -1,3 +1,8 @@
+Useful Info
+===========
+
+- UCD Marketing Toolbox: http://marketingtoolbox.ucdavis.edu/identity/color.html
+
 License
 =======
 
