@@ -1,7 +1,10 @@
 Useful Info
 ===========
 
+- Vertoh Theme Demo: http://showthemes.com/vertoh-demo/
+- Vertoh Theme Documentation: https://showthemes.zendesk.com/hc/en-us/articles/201480262
 - UCD Marketing Toolbox: http://marketingtoolbox.ucdavis.edu/identity/color.html
+- UCD Photos Site: https://photos.ucdavis.edu/bp/#/
 
 License
 =======
