@@ -58,7 +58,7 @@ class Ef_Latest_News_Widget extends WP_Widget {
         $news = get_posts(array(
             'posts_per_page' => -1,
         ));
-        $blog_category_id = get_cat_ID('Blog');
+        $blog_category_id = get_cat_ID('News');
         $categories = get_categories(array('type' => 'post'));
 
         if (empty($blog_category_id)) {
