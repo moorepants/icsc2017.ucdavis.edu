@@ -29,3 +29,7 @@ section.map-slider .swap-cities-list .gradient-overlay { background:none !import
 #tile_eventdescription {
     text-align: left;
 }
+/* Fixes the height of the 356x302 sponsor logo bounding boxes. */
+.col-xs-12.gold_2 div.flipper div.front {
+    height: auto;
+}
