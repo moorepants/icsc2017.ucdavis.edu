@@ -73,7 +73,7 @@ function updateSchedule(timestamp, location, track, scroll) {
                                         <span class="map"><i class="fa fa-map-marker"></i>' + session.location + '</span> \
                                     </div> \
                                     <h3 class="title"><a href="' + session.url + '">' + session.post_title + '</a></h3> \
-                                    <div class="content">' + session.post_excerpt + '</div> \
+                                    <div class="content">' + session.post_content + '</div> \
                                     ' + tracks + ' \
                                 </div> \
                                 <div class="col-sm-5 images' + (session.speakers.length > 2 ? ' many-images' : '') + '"> \

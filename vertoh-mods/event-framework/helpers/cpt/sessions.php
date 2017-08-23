@@ -208,6 +208,7 @@ class EF_Session_Helper {
             array_push($ret['sessions'], array(
                 'post_title' => get_the_title(),
                 'post_excerpt' => get_the_excerpt(),
+                'post_content' => get_the_content(),
                 'url' => get_permalink(get_the_ID()),
                 'time' => $time,
                 'end_time' => $end_time,
